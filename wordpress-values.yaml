@@ -1,0 +1,8 @@
+wordpressUsername: admin
+wordpressPassword: password
+wordpressEmail: admin@admin.com
+wordpressFirstName: Admin
+wordpressLastName: Admin
+wordpressBlogName: admin.wordpress.com
+service:
+  type: Loadbalancer
