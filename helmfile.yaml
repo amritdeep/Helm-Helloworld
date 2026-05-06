@@ -9,3 +9,8 @@ releases:
     values:
       - values.yaml
     installed: true
+
+  - name: helloworld2
+    namespace: default
+    chart: ./helloword
+    installed: true
