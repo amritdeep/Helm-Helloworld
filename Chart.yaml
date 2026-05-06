@@ -1,6 +1,6 @@
 apiVersion: v2
 name: helloworld
-description: A Helm chart for Kubernetes
+description: Convert k8 to Helm helloworld
 
 # A chart can be either an 'application' or a 'library' chart.
 #
